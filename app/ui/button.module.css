@@ -9,6 +9,17 @@
   width: 8rem;
   text-align: center;
 }
+.footerBtn {
+  background-color: rgb(9, 102, 214);
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem auto 0 auto;
+  display: block;
+  width: 8rem;
+  text-align: center;
+}
 
 .linkicon {
   display: flex;

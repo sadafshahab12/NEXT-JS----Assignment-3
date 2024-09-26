@@ -13,9 +13,9 @@ import {
 const Contact = () => {
   return (
     <>
-      <div className="bg-black text-white h-[89vh]">
+      <div className="bg-black text-white h-[100vh]">
         <h1 className="font-bold text-3xl text-center pt-5">Contact Me</h1>
-        <div className="links mx-5  pt-10">
+        <div className="links mx-5 pt-10">
           <Link href="https://www.linkedin.com/in/sadaf-shahab-ssr123">
             <p className={`${styles.btn}  ${styles.linkicon}`}>
               <FontAwesomeIcon icon={faLinkedin} className="w-5" /> LinkedIn
