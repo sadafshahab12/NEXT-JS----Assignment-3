@@ -7,7 +7,7 @@ const Contactme = () => {
     <>
       <div className="lg:py-5 py-2">
         <button
-          className={`${styles.btn} sm:text-[0.75rem] w-5`}
+          className={`${styles.btn}`}
           onClick={() => route.push("/contact")}
         >
           Contact Me
